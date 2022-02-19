@@ -1,5 +1,3 @@
-import java.util.concurrent.Flow.Subscriber;
-
 public class ForExample {
     public static void main(String[] args) {
         int num;

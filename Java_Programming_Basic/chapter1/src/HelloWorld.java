@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.src;
 
 public class HelloWorld {
     public static void main(String[] args) {
