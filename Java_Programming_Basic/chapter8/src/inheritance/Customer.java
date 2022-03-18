@@ -12,6 +12,8 @@ public class Customer {
     public Customer() {
         customerGrade = "SILVER";
         bonusRatio = 0.01;
+
+        System.out.println("Customer() 실행");
     }
 
     public Customer(int customerID, String customerName) {
