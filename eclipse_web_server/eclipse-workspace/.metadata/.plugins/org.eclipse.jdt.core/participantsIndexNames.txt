@@ -13,3 +13,5 @@ INDEX VERSION 1.131
 /WebMarket/src/main/java
 /Users/hyungjun/Documents/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2792413939.index
 /JSPBook/src/main/java
+/Users/hyungjun/Documents/Toy_Project/Java_study/eclipse_web_server/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1621350935.index
+/JSPBook/src/main/java
